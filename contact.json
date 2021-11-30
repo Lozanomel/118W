@@ -1,0 +1,11 @@
+{ 
+    "userdetails": [{ 
+      "name": "jon doe", 
+      "email": "Jondoe@gmail.com", 
+      "comments": "1234" 
+    }, { 
+      "name": "liz", 
+      "email": "Liz@gmail.com", 
+      "comments": "abcd" 
+    }] 
+  } 
